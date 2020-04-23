@@ -1,0 +1,47 @@
+.container {
+    font-family: "Open Sans";
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  header {
+    display: flex;
+    height: 300px;
+    /*   text-align: center;*/
+    background-image: url("http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png");
+    background-size: cover;
+    background-position: center;
+  }
+  header div {
+    position: center;
+    align-content: center;
+    margin: auto auto 10px auto;
+    color: white;
+    line-height: 0px;
+  }
+  header div h3 {
+    font: 40px Arial, sans-serif;
+    margin: 0px;
+  }
+  header div h1 {
+    font: 60px Arial, sans-serif;
+    margin-top: 0px;
+  }
+  blockquote {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .idezet {
+    background: gray;
+    padding: 50px;
+    color: white;
+    font: 30px Times New Roman;
+  }
+  h4 {
+    font: 15px Merriweather italic;
+  }
+  p {
+    font: 15px Josefin Sans;
+    color: grey;
+  }
